@@ -1,0 +1,186 @@
+body,h1,h2,h3,h4,h5,h6,p{
+	margin: none;
+	padding: none;
+	font-family: 'Barlow';
+	color: white;
+	background-color: #002633;
+}
+
+/* Carousel Styles */
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
+
+/* Carousel Header Styles */
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    right: auto;
+    color: #fff;
+}
+
+
+.carousel-caption-text1 {
+    background-color: orange;
+	padding: 10px;
+	width: auto;
+	font-size: 40px;
+}
+
+.carousel-caption-text2{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+	padding: 15px;
+}
+
+
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.navbar{
+background-color: #002633;
+box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+width: 100%;
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+padding-right: 15px;
+padding-left: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.navbar li a:hover{
+	background-color: orange;
+}
+.logo{
+	height: 33px;
+}
+.clText{
+	color: #e4a600;margin-right: 7px;
+}
+
+.keepInTouch{
+	height: 165px;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 60px;
+	margin-bottom: 20px;
+
+}
+
+.product-card{
+	height: 200px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center;
+	font-size: 25px;
+	padding-top: 15px;
+	font-weight: bold;
+
+}
+.product-card1{
+	background-color: rgba(177, 23, 190, 0.705);
+}
+.product-card2{
+	background-color: #f87454;
+}
+.product-card3{
+	background-color: #007e87;
+}
+.smBox{
+	height: 165px;
+	text-align: center;
+	font-size: 65px;
+	padding-top: 35px;
+	margin-bottom: 20px;
+
+}
+
+.fbBox{
+	background-color: rgb(7, 62, 83);
+}
+.instaBox{
+	background-color: rgb(131, 0, 131);
+}
+.ytBox{
+	background-color: rgb(184, 6, 6);
+}
+.liBox{
+	background-color: rgb(5, 106, 131);
+}
+.fa{
+	font-size: 70px;
+}
+
+.cSt{
+
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+.footer-body-text{
+	font-size: 15px;
+}
+.oBox{
+	height: 200px;
+	width: 400px;
+	background-color: orange;
+}
+
+.copyright{
+	text-align: center;
+	color: orange;
+}
+
+/*page two*/
+.banner-heading {
+    font-size: 45px;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-bottom: 20px;
+}
+
+.banner-body {
+    font-size: 20px;
+    padding-bottom: 60px;
+}
+
+.product-logo {
+    height: 50px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	
+}
+.detailsContent {
+    padding: 35px;
+	text-align: justify;
+}
+.detailsContentHeading {
+    color: #002633;
+    padding-bottom: 10px;
+	font-size: 25px;
+	text-align: justify;
+}
+
+.detailsContentBody{
+    color: #6b6b6b;
+    padding-bottom: 10px;
+    font-size: 15px;
+	text-align: justify;
+}
+.carImage{
+    height: 530px;
+    width: 103%;
+}
+.wRow{
+	background-color: white;
+}
